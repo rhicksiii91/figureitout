@@ -1,0 +1,19 @@
+{
+  "name": "figureitout",
+  "version": "1.0.0",
+  "description": "simple http application",
+  "main": "basicnode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhicksiii91/figureitout.git"
+  },
+  "author": "Rob Hicks III",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhicksiii91/figureitout/issues"
+  },
+  "homepage": "https://github.com/rhicksiii91/figureitout#readme"
+}
